@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+*.tmp
+
+# Quarantined files should never be committed
+.securedot/

@@ -1,0 +1,8 @@
+# SecureDOT only uses the Python standard library (hashlib, tkinter, pathlib,
+# threading, etc.) — there is nothing to install with pip.
+#
+# The one system requirement is Tk support for Python:
+#   Debian/Ubuntu:  sudo apt install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter
+#   macOS:          bundled with python.org installers (not Homebrew's default build)
+#   Windows:        bundled with the official python.org installer
